@@ -7,3 +7,5 @@ I also build tools for fun and for personal usage, currently developing my own f
 My main languages are python and javascript, and sometimes I use HTML/CSS for developing websites for my own.
 
 check out some of the stuff I made! also deployed some personal projects.
+
+![Animated Victini](https://play.pokemonshowdown.com/sprites/ani/victini.gif)
