@@ -1,11 +1,21 @@
 ## glauco here!!!
+"The impediment to action advances action. What stands in the way becomes the way." — Marcus Aurelius
 
-I'm a cybersecurity specialist with focus on web apps.
+whoami
+just a security researcher and developer who enjoys breaking things and then building tools to fix them. I spend most of my time deep-diving into web app security and low-level system internals
+currently active on hackerone!
 
-I also build tools for fun and for personal usage, currently developing my own framework.
+i like to build my own stuff from scratch, custom security frameworks to stealthy system agents
+obviously familiarized with linux
 
-My main languages are python and javascript, and sometimes I use HTML/CSS for developing websites for my own.
+technical stack
+Languages: Nim (for when things need to be fast and stealthy), Python (for the heavy lifting/automation), and PHP.
+Web: Node.js, PHP, and modern frontend bits when I'm building my own dashboards.
+security: Pentesting, Red Teaming logic, EDR evasion research, and Vuln Research.
 
-check out some of the stuff I made! also deployed some personal projects.
+what i've been up to
+Proprietary RMM: Developed a cross-platform monitoring agent in Nim that compiles to native C for a minimal footprint and high performance.
+Vulnerability Research: Mapping attack surfaces and automating the discovery of flaws across multiple endpoints.
+Personal Framework: Currently architecting a custom security framework for automated recon and testing.
 
 ![Animated Victini](https://play.pokemonshowdown.com/sprites/ani/victini.gif)
