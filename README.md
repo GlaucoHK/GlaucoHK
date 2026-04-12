@@ -17,10 +17,10 @@ security: Pentesting, Red Teaming logic, EDR evasion research, and Vuln Research
 
 what i've been up to
 
-Proprietary RMM: Developed a cross-platform monitoring agent in Nim that compiles to native C for a minimal footprint and high performance.
+proprietary RMM: Developed a cross-platform monitoring agent in Nim that compiles to native C for a minimal footprint and high performance.
 
-Vulnerability Research: Mapping attack surfaces and automating the discovery of flaws across multiple endpoints.
+vulnerability Research: Mapping attack surfaces and automating the discovery of flaws across multiple endpoints.
 
-Personal Framework: Currently architecting a custom security framework for automated recon and testing.
+personal Framework: Currently architecting a custom security framework for automated recon and testing.
 
 ![Animated Victini](https://play.pokemonshowdown.com/sprites/ani/victini.gif)
