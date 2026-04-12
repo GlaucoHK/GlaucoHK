@@ -7,6 +7,7 @@ just a security researcher and developer who enjoys breaking things and then bui
 currently active on hackerone!
 
 i like to build my own stuff from scratch, custom security frameworks to stealthy system agents
+
 obviously familiarized with linux
 
 technical stack
